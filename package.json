@@ -1,6 +1,6 @@
 {
   "name": "@alemayhu/jszip",
-  "version": "3.7.1",
+  "version": "3.7.2",
   "author": "Alexander Alemayhu<alexander@alemayhu.com>",
   "description": "Fork of JSZip http://stuartk.com/jszip",
   "scripts": {
